@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="dial_button">Dial</string>
+    <string name="activity2_button">Activity2</string>
+    <string name="welcome_text">Welcome!</string>
+
+    <string name="activity_text">Enter a Phone Number</string>
+</resources>
